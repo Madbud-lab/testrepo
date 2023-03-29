@@ -1,0 +1,159 @@
+1)Predictive Experiment can be used directly after creating it from a training experiment. Select the appropriate option as answer.
+a)True, changes can be done only for customisation of web service for client application.
+b)False, a new predictive experiment must be created from scratch.
+c)False, changes must be done to facilitate proper web service inputs/outputs.
+d)True, but need changes with data transformation.
+
+Answer after research : (a)
+
+2)An environment for working with Azure Machine Learning in an Azure subscription does not automatically create ___________.
+a)A storage account
+b)A workspace
+c)A pricing plan
+d)A web service
+
+Answer: Based on research (b)
+
+3)Age can be Normalised through _________.
+a)LogNormal
+b)MinMax
+c)Logistic
+d)Zscore
+
+Answer: after research (b)
+
+4)Collaboration in Azure Machine Learning is possible through ________.
+a)Invitation to Azure Subscription
+b)Merging Workspaces
+c)Collaboration is not possible
+d)Invitation to Workspace
+
+Answer: "Collaboration in Azure Machine Learning is possible through invitation to workspace. The owner of the workspace can give invitation to others simply by clicking setting icon which is on the left side" Based on this (d),
+
+5)A K-Means Cluster is said to be well defined if the cluster is ________.
+a)Ellipse
+b)Circle
+c)Polygon with cluster number of edges
+d)No such metric
+
+Answer: According to me no such metric (d)
+
+6)To prevent running Import Data module each time, we run an experiment, when data is imported from Azure Blob storage, we can use
+a)Generated Results
+b)Stored Results
+c)Not possible to prevent Import Data module from running.
+d)Cached Results
+
+Answer: According to me (d)
+
+7)If training time can be traded for accuracy, we can use _____________.
+a)Neural Networks
+b)Boosted Decision Tree
+c)Logistic Regression
+d)Decision Forest
+
+Answer: After research (b)
+
+8)A web service can be published as Classic or [New]. Does this make any difference?
+a)Yes; in consuming web service.
+b)Yes; in managing web service.
+c)No change, except for versioning.
+d)No change, except for pricing plan
+
+Answer: By research (b)
+
+9)Which of the following can be generally used to clean and prepare Big Data?
+a)Data Lake
+b)U-SQL
+c)Pandas
+d)Data Warehouse
+
+Answer: (d)
+
+10)In comparison to Azure Machine Learning Service, Azure Machine Learning Studio has ____________.
+a)Better CLI and SDK
+b)Fewer open-source packages support
+c)Better web services
+d)All the options
+
+Answer: (d)
+
+11)11. Average amount of money spent by a user at a Supermarket can be predicted through ____________ .
+a)Clustering
+b)Classification
+c)None of the options
+d)Regression
+
+Answer: (b)
+
+12)Which of the following is false about Train Data and Test Data in Azure ML Studio _________?
+a)Cross validation data is taken from train data.
+b)Train and Test data random split is reproducible.
+c)Train and Test data are used to Score the Model.
+d)Train data and Test data split should follow a thumb-rule of 80 : 20.
+
+Answer: (a)
+
+13)Get the required size of a dataset from a large amount of accumulated data is called ________.
+a)Rational Sampling
+b)Preperation Sampling
+c)Preprocess Sampling
+d)Statistical Sampling
+
+Answer: (c)
+
+14)Select Azure Data Factory pipeline activity that retrieves predictions from an Azure Machine Learning web service.
+a)AzureMLBatchProcessing
+b)AzureBlob
+c)AzureUpdateResource
+d)AzureMLBatchExecution
+
+Answer: (d)
+
+15)Azure Webservice is based on ____________.
+a)SOAP API and JSON Format
+b)REST API and Xml Format
+c)All the options
+d)REST API and JSON Format
+
+Answer: (d)
+
+16)A client application needs to fetch reference data based on customer location and data is shared on multiple databases. Servicing theapplication through a single prediction web service is possible through ______________.
+a)Parametrising Webservice URL
+b)Parametrising Database location
+c)Any of the options
+d)Parametrising Database Connection
+
+Answer: (a)
+
+17)In Azure Stream analytics, webservice is added as a ___________.
+a)job
+b)function
+c)tranformation
+d)query
+
+Answer: (b)
+
+18)Mean variance Normalization is used in case when the parameter distribution is __________.
+a)Continuous Distribution
+b)None of the options
+c)Skew Distribution
+d)Bell shaped Distribution
+
+Answer: (a)
+
+19)Which of the following is the best model to predict the number of earthquakes occurring at a place based on historical data?
+a)Poisson Regression
+b)None of the options
+c)Logistic Regression
+d)Fast forest quantile regression
+
+Answer: (a)
+
+20)Log transform is used when __________.
+a)the parameter relationship is curvy
+b)the parameter distribution is exponential
+c)the parameter distribution is bell shaped
+d)the negative parameter is not valid
+
+Answer: (c)
